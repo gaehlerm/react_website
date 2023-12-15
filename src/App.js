@@ -182,8 +182,8 @@ function App() {
   };
   return (
     <div className="App">
-      <h1>Altersheime in Zürich</h1>
-      <body>Diese Webseite beinhaltet eine Liste von Altersheimen, welche man nach verschiedenen Kriterien filtern kann.</body>
+      <h1>Titel</h1>
+      <body>Hier folgt text.</body>
       {/* ReactDOM.render(<MyTable />, document.getElementById("target")); */}
       {/* ReactDOM.render(<MyTable />, document.getElementById("target")); */}
       {/* const root = ReactDOM.createRoot(<MyTable />); */}
